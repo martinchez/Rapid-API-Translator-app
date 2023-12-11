@@ -1,4 +1,4 @@
-# Getting Started with Create React Trasnlaton application. using Rapid API.
+# Getting Started with Create React Translaton application. using Rapid API.
 ![React application Translation app](<images/React application.png>)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
