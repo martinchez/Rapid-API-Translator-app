@@ -56,6 +56,7 @@ export default function Translator() {
   }
   return (
     <div className="container">
+      <h1>Translation App </h1>
       <div className="row1">
         <select
           value={inputFormat}
